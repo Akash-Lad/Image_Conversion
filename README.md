@@ -1,6 +1,6 @@
 # Image Conversion & Transformation
 
-Image Conversion is a vital concept in Image Processing. 
+Image Conversion is a vital concept in Image Processing to deal with noise reduction and processing. 
 
 Converting images to certain forms is essential as it helps in getting us insight about the image. 
 
